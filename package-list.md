@@ -1,3 +1,7 @@
+### Atom Settings
+
+##Packages installed:
+~~~~
 Sublime-Style-Column-Selection@1.7.2
 duplicate-line-or-selection@0.5.0
 fold-functions@0.4.4
@@ -13,3 +17,4 @@ minimap-git-diff@4.3.1
 minimap-highlight-selected@4.4.0
 minimap-selection@4.4.0
 next-line-comment@0.2.1
+~~~~
