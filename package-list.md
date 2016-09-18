@@ -1,6 +1,6 @@
-### Atom Settings
+# Atom Settings
 
-##Packages installed:
+## Packages installed:
 ~~~~
 Sublime-Style-Column-Selection@1.7.2
 duplicate-line-or-selection@0.5.0
